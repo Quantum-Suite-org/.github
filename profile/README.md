@@ -3,6 +3,7 @@
 Quantum Suite is organized into multiple software suites, each focused on a specific workflow while sharing the same high-performance Quantum Core libraries.
 
 ---
+(Gemini_Generated_Image_3apahz3apahz3apa.png)
 
 # 🎨 Quantum Fusion
 
@@ -101,6 +102,8 @@ Artificial intelligence platform.
 - Model Manager
 - Model Trainer
 - Benchmark Suite
+
+(Gemini_Generated_Image_wdcxozwdcxozwdcx.png)
 
 ### Models
 
